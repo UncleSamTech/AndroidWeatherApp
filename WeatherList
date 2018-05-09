@@ -1,0 +1,23 @@
+package com.example.samuel.sunshineapp;
+
+/**
+ * Created by SAMUEL on 5/9/2018.
+ */
+
+public final class WeatherList {
+
+    public static String[]  getWeatherList(){
+
+        return new String[]{
+                "Today Nigeria(W/Africa), May 09 - Precipitation 0%, Humidity 49%, Wind 11km/h - 35°C ",
+               "Tommorow Nigeria(W/Africa), May 10 - Precipitation 40%, Humidity 64%, Wind 11km/h - 32°C ",
+               "Nigeria(W/Africa), May 11 - Precipitation 50%, Humidity 65%, Wind 10km/h - 32°C ",
+               " Nigeria(W/Africa), May 12 - Precipitation 80%, Humidity 75%, Wind 10km/h - 29°C ",
+                " Nigeria(W/Africa), May 13 - Precipitation 40%, Humidity 66%, Wind 10km/h - 32°C ",
+                " Nigeria(W/Africa), May 14 - Precipitation 50%, Humidity 67%, Wind 10km/h - 31°C ",
+                " Nigeria(W/Africa), May 15 - Precipitation 20%, Humidity 63%, Wind 8km/h - 32°C ",
+                " Nigeria(W/Africa), May 16 - Precipitation 80%, Humidity 65%, Wind 8km/h - 32°C ",
+               
+        };
+    }
+}
